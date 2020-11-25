@@ -1,0 +1,1 @@
+export const baseUrl = "http://d-mobile.herokuapp.com/";
